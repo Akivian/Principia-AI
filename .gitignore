@@ -1,0 +1,23 @@
+# Local build tooling (not part of the published repo)
+.tools/
+tools/
+styles/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+
+# Transient build artifacts
+*.tmp
+*.temp
+*.log
